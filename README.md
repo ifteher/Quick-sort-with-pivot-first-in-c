@@ -1,0 +1,1 @@
+# Quick-sort-with-pivot-first-in-c
